@@ -1,4 +1,4 @@
-# ILOVEYOU V1.0
+# ILOVEYOU v5.0.0
 
 - 演示地址：[演示](http://ors.ugu.pl/admin/ipList.php)
 - 项目文档地址：[查看文档](https://wcqh.cn/index.php/archives/52/)
