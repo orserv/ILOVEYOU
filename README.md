@@ -3,8 +3,8 @@
 
 - 演示地址：[演示](http://ors.ugu.pl/admin/ipList.php)
 - 项目文档地址：[查看文档](https://wcqh.cn/index.php/archives/52/)
-  ![首页](https://img.gejiba.com/images/d1947b697e6735637a6e460332ba14cd.png)
-  ![后端](https://img.gejiba.com/images/7f71be28f996a744fdfacc9f663ec975.png)
+  ![首页](https://cdn.ortech.us.kg/gh/soeos/PicGoGithub/blog_img/202409161606780.png)
+  ![后端](https://cdn.ortech.us.kg/gh/soeos/PicGoGithub/blog_img/202409161609779.png)
 
 ### 前言
 
