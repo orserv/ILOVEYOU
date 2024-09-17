@@ -48,7 +48,7 @@
 </div>
 <div class="footer-warp">
     <div class="footer">
-        <p><a href="https://wcqh.cn" target="_blank"><?php echo $icp ?></a></p>
+        <p><a href="https://blog.ortech.us.kg" target="_blank"><?php echo $icp ?></a></p>
         <p><?php echo $copy ?></p>
     </div>
 </div>
